@@ -9,10 +9,13 @@ To answer this research question: "What effect did county-level COVID-19 mortali
 ## Data
 us-counties.csv (COVID-19 mortality rates)
 - https://www.nytimes.com/article/coronavirus-county-data-us.html
+
 2020pop.xlsx (Census population data)
 - https://www.census.gov/data.html
+
 HPI_AT_3zip.xlsx (Housing price index data)
 - https://www.fhfa.gov/DataTools/Downloads/Pages/House-Price-Index-Datasets.aspx
+
 COUNTY_ZIP_032020.xlsx (Crosswalk data)
 - https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
